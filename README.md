@@ -7,7 +7,7 @@ This login form makes use of several security features including CSRF Tokens, Ra
 
 ## CSRF Tokens
 
-CSRF Tokens are used to prefent Cross-Site Request Forgeries. So another website could not easily attempt to make ajax calls because the tokens are generated and stored in the session.
+CSRF Tokens are used to prevent Cross-Site Request Forgeries. So another website could not easily attempt to make ajax calls because the tokens are generated and stored in the session.
 
 ## Random Field Names
 
